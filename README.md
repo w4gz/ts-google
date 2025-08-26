@@ -5,4 +5,4 @@
 
 <p>this one is for you, just push the</p>
 
-[link text](URL) (e.g., [button](https://www.google.com))
+[button](https://www.google.com)
